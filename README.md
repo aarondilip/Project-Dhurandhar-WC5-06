@@ -2,6 +2,10 @@
 
 An immersive, single-file web application that simulates a classified Intelligence Bureau (IB) cyber-intelligence terminal used to decrypt intercepted transmissions.
 
+## ⚠️ Disclaimer
+
+This project is a fictional UI created for educational and creative purposes. It is not affiliated with any real government or intelligence agency.
+
 ## 🚀 Features
 
 * Single HTML file (HTML, CSS & JavaScript)
@@ -30,7 +34,3 @@ An immersive, single-file web application that simulates a classified Intelligen
 ## ▶️ Run
 
 Simply open the `index.html` file in any modern web browser—no installation or dependencies required.
-
-## ⚠️ Disclaimer
-
-This project is a fictional UI created for educational and creative purposes. It is not affiliated with any real government or intelligence agency.
