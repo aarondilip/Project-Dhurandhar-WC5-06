@@ -1,0 +1,1 @@
+[Phase 1: UI/UX Wireframing] ➔ [Phase 2: Frontend Layout] ➔ [Phase 3: Cipher Engine (JS)] ➔ [Phase 4: Testing & Deployment]

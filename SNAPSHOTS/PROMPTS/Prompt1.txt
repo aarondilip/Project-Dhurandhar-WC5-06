@@ -1,0 +1,11 @@
+Act as a major think tank. You have made several predictions which have come true in the long run.
+Your task is to brainstorm ideas and a vision, and a workflow for creating a futuristic and functional secret message decoder website.
+
+The main idea:
+House Stark gets hold of a secret message addressed tp Jon Snow. The words in the message are jumbled (but the words themseleves are in order) and can be decoded by getiing the secret number (which is the length of the first word of the entered string, exclusive of whitespaces and extra chars).
+From each letter from all words inn the string, the secret number is reduced to get the actual message. Note that the letters are in a loop (A comes after Z).
+
+If it is in python [ord(chr(eachelement)-secret number)]
+(note :no spaces or extra chars are iterated)
+
+Your task is to ONLY create a workflow with the project name, a brief description on the look and feel and other particulars. You may ask follow up questions before you start creating your reply [NO CODE OR OUTPUT EXPECTED NOW. ONLY BRAINSTORMING IDEAS]
